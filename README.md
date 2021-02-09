@@ -14,7 +14,7 @@ This repository contains three Python classes: Generaldistribution, Gaussian and
 
 ## Libraries used:
 
-import math
+import math  
 import matplotlib.pyplot as plt
 
 ## Acknowledgements:
